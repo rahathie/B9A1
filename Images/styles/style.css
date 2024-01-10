@@ -1,0 +1,72 @@
+.header{
+    background-image: url(Images/Banner Image.png);
+    width: 1320px;
+    height:600px;
+    border-radius: 16px;
+    margin: 50px 140px 6685px 40px;
+    font-family: Merriweather, serif;
+    
+}
+.happy{
+    color: white;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    padding: 115px 530px 380px 530px;
+}
+.party{
+text-align: center;
+font-size: 72px;
+font-weight: 900;
+width: 632px;
+padding: 230px 344px 177px 344px;
+}
+
+.off{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+
+}
+.category h3{
+    color: black;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.category >img{
+    width: 802.9px;
+   height: 500px;
+   width: 802.9px;
+}
+.place-time-content {
+    text-align: center;
+}
+.place-time-content h3 span{
+    color: #F00;
+}
+.footer-part p{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    
+}
+logo >img{
+    color: blue;
+    width: 64px;
+height: 64px;
+flex-shrink: 0;
+}
+.last p{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    
+}
